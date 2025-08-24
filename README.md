@@ -21,9 +21,8 @@
 
   ##
   
-  <div>
+  <div align="center" style="display: inline_block">>
    <a href="https://www.linkedin.com/in/denilson-messias-rodrigues" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href = "mailto:denilsonm95rodrig@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor= branco"></a>
-  <a href="https://www.youtube.com/channel/UCAKk81JiFGN21uZoxEUREA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.instagram.com/denilson_9506/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
